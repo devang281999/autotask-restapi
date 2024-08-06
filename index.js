@@ -229,6 +229,9 @@ class AutotaskRestApi {
       {name:'WebhookEventErrorLogs'},
       {name:'WorkTypeModifiers'},
       {name:'ZoneInformation'},
+
+      // Added Entity
+      {name:'DeletedTicketLogs'},
     ];
 
     // connector initialization
